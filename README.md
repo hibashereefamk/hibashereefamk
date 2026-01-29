@@ -1,4 +1,4 @@
-# hiba shereefa mk 👋
+# Hiba Shereefa 👋
 
 ### Python Full-Stack Developer (React + Django) 🚀
 
